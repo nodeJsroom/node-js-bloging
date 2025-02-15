@@ -1,0 +1,5 @@
+{
+  "watch": ["src", "async"],
+  "ext": "js",
+  "exec": "node async/index.js"
+}
